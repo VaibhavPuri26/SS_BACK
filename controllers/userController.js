@@ -1,4 +1,4 @@
-const userModel = require("../models/userModel");
+const userModel = require("../models/usermodel");
 const bcrypt = require("bcrypt");
 
 // login callback
